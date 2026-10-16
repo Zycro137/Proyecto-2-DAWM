@@ -25,7 +25,7 @@ Con base en las 24 encuestas realizadas, se organizará la página de Cairo Gym 
 
 | **Sección** | **Propósito** | **Contenido** |
 |---|---|---|
-| **Inicio** | Presentar el gimnasio y facilitar la navegación. | Nombre y logotipo de Cairo Gym, menú con enlaces a las secciones de la página. |
+| **Inicio** | Presentar el gimnasio y facilitar la navegación entre secciones de la página. | Logotipo de Cairo Gym, enlaces ancla hacia las secciones principales: Nosotros, Estadísticas, Servicios, Horarios, Testimonios. |
 | **Nosotros** | Dar a conocer el gimnasio y su importancia para la comunidad. | Breve descripción del gimnasio y su objetivo de promover la actividad física y la salud. |
 | **Estadísticas** | Mostrar los resultados de las encuestas. | Número de participantes, objetivos de entrenamiento y frecuencia de asistencia. |
 | **Servicios** | Informar sobre las opciones de entrenamiento. | Información sobre musculación, ejercicios cardiovasculares y orientación para nuevos usuarios. |
@@ -33,7 +33,7 @@ Con base en las 24 encuestas realizadas, se organizará la página de Cairo Gym 
 | **Testimonios** | Compartir las opiniones de los usuarios. | Comentarios reales recopilados en las encuestas, si se cuenta con ellos. |
 | **Pie de página** | Incluir los créditos del proyecto. | Derechos de autor, atribución de la plantilla de HTML5 UP y nombres del equipo. |
 
-La página se desarrollará utilizando HTML y CSS, por lo que la navegación se realizará mediante enlaces y no se incluirán funciones interactivas con JavaScript.
+La página se desarrollará utilizando HTML y CSS, por lo que la navegación se realizará mediante enlaces.
 
 ---
 
