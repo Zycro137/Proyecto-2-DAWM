@@ -60,7 +60,7 @@ Además, su diseño responsivo facilita que los habitantes puedan consultar la p
 
 ---
 
-## 🛠️ 4. Tecnologías y Herramientas Utilizadas
+## 4. Tecnologías y Herramientas Utilizadas
 
 * **HTML5:** Marcado semántico y accesible para la estructura del contenido.
 * **CSS3:** Hojas de estilo provistas por la plantilla, adaptadas con colores corporativos e identidad del gimnasio.
@@ -70,10 +70,3 @@ Además, su diseño responsivo facilita que los habitantes puedan consultar la p
 
 ---
 
-## 📁 5. Estructura del Repositorio
-
-```text
-├── css/
-│   ├── estilo.css           
-├── index.html                  # Landing page principal personalizada
-└── README.md                   # Documentación completa del proyecto
