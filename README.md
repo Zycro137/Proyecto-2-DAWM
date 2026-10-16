@@ -61,9 +61,8 @@ Además, su diseño responsivo facilita que los habitantes puedan consultar la p
 
 * **HTML5:** Marcado semántico y accesible para la estructura del contenido.
 * **CSS3:** Hojas de estilo provistas por la plantilla, adaptadas con colores corporativos e identidad del gimnasio.
-* **JavaScript:** Scripts ligeros incluidos en la plantilla para la navegación suave (*smooth scroll*), menú adaptable y efectos de visualización.
 * **Git & GitHub:** Sistema de control de versiones y repositorio público para la colaboración en equipo.
-* **Google Sheets:** Recopilación, tabulación y análisis de las encuestas realizadas a la comunidad.
+
 
 ---
 
