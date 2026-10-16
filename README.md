@@ -35,27 +35,25 @@ A partir de los resultados de las 24 encuestas realizadas, se estructuró la inf
 
 ---
 
-## 🎨 3. Selección y Evaluación de la Plantilla (HTML5 UP)
+## 3. Selección y evaluación de la plantilla (HTML5 UP)
 
-Se exploraron y analizaron tres plantillas gratuitas y responsivas del catálogo de [HTML5 UP](https://html5up.net/), evaluando su viabilidad técnica y conceptual:
+Se revisaron tres plantillas gratuitas de HTML5 UP: Massively, Spectral e Hyperspace. Se compararon sus características visuales, navegación, adaptación a dispositivos móviles y posibilidades de personalización para elegir la más adecuada para el proyecto.
 
-### Tabla Comparativa de Plantillas Candidatas
+### Tabla comparativa de plantillas candidatas
 
-| Criterio | Plantilla 1: **Stellar** | Plantilla 2: **Spectral** | Plantilla 3: **Hyperspace** |
-| :--- | :--- | :--- | :--- |
-| **Estructura** | Disposición vertical *one-page* muy limpia. Integra de fábrica bloques para métricas/estadísticas, destacados (*spotlights*), listas en cuadrícula y formulario al final. | Estructura vertical con hero banner a pantalla completa, secciones de contraste alternado y bloques modulares para características. | Estructura dividida: barra lateral fija a la izquierda (*sidebar*) y área de contenido en bloques de colores sólidos a la derecha. |
-| **Navegación** | Barra de navegación superior fija (*sticky nav*) que acompaña el scroll del usuario con resaltado automático de sección activa. | Menú desplegable lateral oculto tipo *drawer* (botón hamburguesa). Requiere un clic extra para ver las secciones. | Menú vertical permanente en el lateral izquierdo en resoluciones de escritorio; pasa arriba en pantallas móviles. |
-| **Diseño Visual** | Tipografía sobria, estética moderna, fondos contrastantes elegantes y balance perfecto entre texto y componentes visuales. | Diseño cinematográfico, oscuro, elegante y de alto impacto visual centrado en banners e imágenes grandes. | Diseño contemporáneo con paleta de colores brillantes/neón y degradados pronunciados. |
-| **Adaptabilidad (Responsive)** | Totalmente responsiva; el menú y la cuadrícula de estadísticas se adaptan de forma natural y fluida a cualquier resolución móvil. | Altamente adaptable a pantallas móviles mediante su menú lateral y bloques apilables. | Totalmente responsiva, aunque la barra lateral fija consume espacio horizontal útil en tablets y portátiles pequeños. |
-| **Facilidad de Personalización** | **Muy alta**. Código HTML5 semántico bien indentado, CSS estructurado con variables fáciles de modificar y módulos independientes. | **Media**. El comportamiento del menú desplegable y los cortes visuales inclinados de las secciones requieren más tiempo de ajuste. | **Media-Alta**. El esquema de color por capas y la barra lateral demandan reajustes CSS específicos para no saturar visualmente. |
+| Criterio | Massively | Spectral | Hyperspace |
+|---|---|---|---|
+| **Diseño** | Estilo editorial, con títulos grandes, imágenes y bloques de contenido. | Diseño oscuro y llamativo, con banners y secciones de distintos estilos. | Diseño moderno con una barra lateral y secciones de colores contrastantes. |
+| **Navegación** | Menú horizontal ubicado debajo de la portada. | Menú desplegable que permite acceder a las secciones. | Menú lateral que se adapta a pantallas pequeñas. |
+| **Organización del contenido** | Permite destacar una introducción y organizar artículos o secciones con imágenes y textos. | Presenta el contenido en bloques visuales con diferentes fondos. | Organiza la información en secciones diferenciadas a lo largo de la página. |
+| **Adaptabilidad** | Diseño responsivo para computadores, tabletas y celulares. | Diseño responsivo que reorganiza sus elementos según la pantalla. | Diseño responsivo que ajusta su navegación y contenido a dispositivos móviles. |
+| **Personalización** | Permite modificar textos, imágenes, colores y contenido HTML y CSS. | Permite adaptar sus secciones y estilos visuales. | Permite modificar los colores, la distribución y los elementos de cada sección. |
 
-### Justificación de la Elección: **Plantilla Stellar**
+### Justificación de la elección: Massively
 
-Se determinó que **Stellar** es la opción más idónea para el proyecto por las siguientes razones:
-1. **Soporte nativo para métricas:** La plantilla incluye un componente nativo de contadores y estadísticas (`<ul class="statistics">`), lo que permite presentar de forma directa y visual los datos cuantitativos obtenidos de las encuestas sin necesidad de librerías externas.
-2. **Navegación directa y accesible:** Su barra fija superior (*sticky navigation*) ofrece una experiencia de usuario clara e intuitiva, permitiendo al usuario saltar directamente a los horarios, servicios o formulario sin abrir menús ocultos.
-3. **Semántica y facilidad de mantenimiento:** Su código fuente hace un uso ejemplar de etiquetas semánticas (`<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`), lo cual facilita la personalización en pareja y asegura buenas prácticas de accesibilidad.
+Se eligió **Massively** porque permite presentar la información de manera clara y visual, empezando con una portada llamativa y continuando con secciones que combinan imágenes y textos. Estas características son útiles para mostrar el gimnasio de la comunidad, explicar los beneficios de hacer ejercicio y motivar a más personas a participar.
 
+Además, su diseño responsivo facilita que los habitantes puedan consultar la página desde sus celulares. También permite personalizar las imágenes, los colores y los textos para relacionarlos con la actividad física y la identidad de la comunidad. Por estas razones, se consideró una opción adecuada para promocionar el único gimnasio de la zona y fomentar un estilo de vida más saludable.
 ---
 
 ## 🛠️ 4. Tecnologías y Herramientas Utilizadas
