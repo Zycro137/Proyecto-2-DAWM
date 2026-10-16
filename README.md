@@ -54,6 +54,7 @@ Se revisaron tres plantillas gratuitas de HTML5 UP: Massively, Spectral e Hypers
 Se eligió **Massively** porque permite presentar la información de manera clara y visual, empezando con una portada llamativa y continuando con secciones que combinan imágenes y textos. Estas características son útiles para mostrar el gimnasio de la comunidad, explicar los beneficios de hacer ejercicio y motivar a más personas a participar.
 
 Además, su diseño responsivo facilita que los habitantes puedan consultar la página desde sus celulares. También permite personalizar las imágenes, los colores y los textos para relacionarlos con la actividad física y la identidad de la comunidad. Por estas razones, se consideró una opción adecuada para promocionar el único gimnasio de la zona y fomentar un estilo de vida más saludable.
+
 ---
 
 ## 🛠️ 4. Tecnologías y Herramientas Utilizadas
