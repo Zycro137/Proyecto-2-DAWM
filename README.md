@@ -3,9 +3,10 @@
 > **Materia:** Desarrollo de Aplicaciones Web y Móviles 
 > **Institución:** Escuela Superior Politécnica del Litoral (ESPOL)  
 > **Proyecto:** Proyecto 02 - Explorando la cultura con la web
-> **Integrantes:**
-> - Integrante 1: Santiago Maldonado - Zycro137
-> - Integrante 2: Ronald Padilla - ronalvld
+> 
+>  **Integrantes:**
+> - Santiago Maldonado - Zycro137
+> - Ronald Padilla - ronalvld
 > 
 > **Enlace del Repositorio:** https://github.com/Zycro137/Proyecto-2-DAWM.git
 
