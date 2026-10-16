@@ -73,18 +73,7 @@ Se determinó que **Stellar** es la opción más idónea para el proyecto por la
 ## 📁 5. Estructura del Repositorio
 
 ```text
-├── assets/
-│   ├── css/
-│   │   ├── main.css            # Estilos principales adaptados
-│   │   └── fontawesome-all.min.css
-│   ├── js/
-│   │   ├── main.js             # Lógica de navegación y responsive
-│   │   ├── jquery.min.js
-│   │   └── util.js
-│   └── webfonts/               # Fuentes e iconografía
-├── images/                     # Recursos visuales del gimnasio y placeholders
-│   ├── hero-bg.jpg
-│   ├── instalacion-pesas.jpg
-│   └── comunidad.jpg
+├── css/
+│   ├── estilo.css           
 ├── index.html                  # Landing page principal personalizada
 └── README.md                   # Documentación completa del proyecto
