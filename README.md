@@ -1,28 +1,27 @@
-# 🏋️‍♂️ Landing Page Comunitaria: Cairo Gym
+# Página Comunitaria: Cairo Gym
 
-> **Materia:** Desarrollo de Aplicaciones Web y Móviles (DAWM)  
+> **Materia:** Desarrollo de Aplicaciones Web y Móviles 
 > **Institución:** Escuela Superior Politécnica del Litoral (ESPOL)  
 > **Proyecto:** Proyecto 02 - Explorando la cultura con la web
-> **Integrantes:**  
-> - Integrante 1: [Nombre y Apellidos] - [Usuario GitHub]  
-> - Integrante 2: [Nombre y Apellidos] - [Usuario GitHub]  
+> **Integrantes:**
+> - Integrante 1: Santiago Maldonado - Zycro137
+> - Integrante 2: Ronald Padilla - ronalvld
 > 
-> **Enlace del Repositorio:** [URL del repositorio en GitHub]  
-> **Demostración en vivo (GitHub Pages):** [URL de GitHub Pages si aplica]
+> **Enlace del Repositorio:** https://github.com/Zycro137/Proyecto-2-DAWM.git
 
 ---
 
-## 📌 1. Descripción y Contexto del Proyecto
+## 1. Descripción y Contexto
 
-El presente proyecto consiste en el análisis, planificación y desarrollo de una primera versión funcional de una *landing page* para el **Gimnasio Cairo Gym**, el único centro de acondicionamiento físico de nuestra comunidad. 
+El presente proyecto consiste en, mediante un levantamiento y análisis de datos, promover e incentivar la integración de la comunidad en prácticas deportivas dentro del **Gimnasio Cairo Gym**.
 
-El objetivo es visibilizar la actividad deportiva comunitaria, promover hábitos saludables (entrenamiento de fuerza, resistencia cardiovascular y movilidad para todas las edades) y resolver problemas de información detectados mediante un levantamiento de datos (encuestas y entrevistas a 24 miembros de la comunidad).
+El objetivo es visibilizar la actividad deportiva, promover hábitos saludables, como entrenamientos de fuerza, resistencia cardiovascular y movilidad para todas las edades, informando basándose en encuestas y entrevistas realizadas a 24 miembros de la comunidad.
 
 ---
 
-## 📊 2. Organización del Contenido del Sitio Web
+## 2. Organización del Contenido del Sitio Web
 
-A partir de los resultados de las 24 encuestas realizadas (cubriendo usuarios desde menores de 18 años hasta adultos mayores de 60 años, y personal del centro), se estructuró la información en las siguientes secciones:
+A partir de los resultados de las 24 encuestas realizadas, se estructuró la información en las siguientes secciones:
 
 | Nombre de la Sección | Propósito de la Sección | Datos e Información que se Presentarán |
 | :--- | :--- | :--- |
