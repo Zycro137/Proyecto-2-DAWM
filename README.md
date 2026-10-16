@@ -19,19 +19,21 @@ El objetivo es visibilizar la actividad deportiva, promover hábitos saludables,
 
 ---
 
-## 2. Organización del Contenido del Sitio Web
+## 2. Organización del contenido del sitio web
 
-A partir de los resultados de las 24 encuestas realizadas, se estructuró la información en las siguientes secciones:
+Con base en las 24 encuestas realizadas, se organizará la página de Cairo Gym en las siguientes secciones:
 
-| Nombre de la Sección | Propósito de la Sección | Datos e Información que se Presentarán |
-| :--- | :--- | :--- |
-| **Cabecera (`#inicio`)** | Facilitar la navegación interna entre las diferentes secciones de la página y fijar la identidad del gimnasio en el extremo superior de la pantalla. | Logotipo de Cairo Gym, enlaces ancla hacia las secciones principales: Nosotros, Estadísticas, Servicios, Horarios. |
-| **Identidad Comunitaria (`#nosotros`)** | Justificar la relevancia del gimnasio como el único espacio deportivo del sector e inclusivo para todas las edades. | Breve reseña del gimnasio en el barrio, declaración de misión comunitaria, enfoque en salud preventiva y rango de usuarios atendidos (jóvenes, adultos y adultos mayores). |
-| **Métricas Clave (`#estadisticas`)** | Respaldar la propuesta con datos reales y transparentes recopilados durante el levantamiento de información. | Contadores y datos cuantitativos de las encuestas: **24 participantes**, distribución de objetivos (**41.7% hipertrofia**, **29.2% salud articular/cardio**, **16.7% pérdida de peso**), frecuencia promedio (**3 a 5 días/semana**) y 100% de percepción de impacto positivo en la comunidad. |
-| **Servicios y Áreas (`#servicios`)** | Detallar las modalidades de entrenamiento disponibles adaptadas a las necesidades expresadas por los usuarios. | Bloques con iconos descriptivos: Zona de Peso Libre y Musculación, Área Cardiovascular, Rutinas de Movilidad/Tercera Edad y Programa de Inducción Guiada para Nuevos Miembros (solución a la timidez/falta de técnica reportada). |
-| **Horarios y Afluencia (`#horarios`)** | Optimizar la asistencia para evitar las horas pico reportadas por los encuestados y fomentar la comodidad del usuario. | Horario de atención (Lunes a Sábado), tabla de afluencia por franjas horarias con semáforo de concurrencia: Mañana (Baja concurrencia / Recomendado), Mediodía (Moderada), Tarde/Noche (Alta concurrencia - 58% de usuarios). |
-| **Voces de la Comunidad (`#testimonios`)** | Generar confianza y sentido de pertenencia a través de la retroalimentación cualitativa de usuarios reales. | Citas textuales extraídas de las encuestas destacando el compañerismo, la salud mental, el progreso físico y el rol social de Cairo Gym en el barrio. |
-| **Pie de Página (`footer`)** | Cerrar el documento con información legal, derechos de autor y créditos correspondientes. | Aviso de derechos reservados (© 2026 Cairo Gym), atribución de la plantilla a HTML5 UP y créditos del equipo de desarrollo de ESPOL. |
+| **Sección** | **Propósito** | **Contenido** |
+|---|---|---|
+| **Inicio** | Presentar el gimnasio y facilitar la navegación. | Nombre y logotipo de Cairo Gym, menú con enlaces a las secciones de la página. |
+| **Nosotros** | Dar a conocer el gimnasio y su importancia para la comunidad. | Breve descripción del gimnasio y su objetivo de promover la actividad física y la salud. |
+| **Estadísticas** | Mostrar los resultados de las encuestas. | Número de participantes, objetivos de entrenamiento y frecuencia de asistencia. |
+| **Servicios** | Informar sobre las opciones de entrenamiento. | Información sobre musculación, ejercicios cardiovasculares y orientación para nuevos usuarios. |
+| **Horarios** | Ayudar a los usuarios a planificar sus visitas. | Horarios de atención y datos sobre las horas de mayor y menor concurrencia. |
+| **Testimonios** | Compartir las opiniones de los usuarios. | Comentarios reales recopilados en las encuestas, si se cuenta con ellos. |
+| **Pie de página** | Incluir los créditos del proyecto. | Derechos de autor, atribución de la plantilla de HTML5 UP y nombres del equipo. |
+
+La página se desarrollará utilizando HTML y CSS, por lo que la navegación se realizará mediante enlaces y no se incluirán funciones interactivas con JavaScript.
 
 ---
 
