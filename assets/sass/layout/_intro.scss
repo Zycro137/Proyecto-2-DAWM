@@ -112,4 +112,8 @@
 				display: none;
 			}
 		}
+
+		@include orientation('portrait') {
+			min-height: 40vh;
+		}
 	}

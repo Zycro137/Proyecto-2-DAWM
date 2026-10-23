@@ -3235,10 +3235,10 @@ input, select, textarea {
 			height: 100%;
 			background-color: #212931;
 			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
-			background-size: auto,								auto,														100% auto;
+			background-size: auto,								auto,														100vw 100vh;
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat;
-			background-attachment: scroll,								scroll,														scroll;
+			background-attachment: scroll,								scroll,														fixed;
 			z-index: -1;
 		}
 
@@ -3271,14 +3271,6 @@ input, select, textarea {
 
 		body.is-preload #wrapper.fade-in:before {
 			opacity: 1;
-		}
-
-		@media screen and (orientation: portrait) {
-
-			#wrapper > .bg {
-				background-size: auto,								auto,														auto 175%;
-			}
-
 		}
 
 /* Intro */
@@ -3487,6 +3479,14 @@ input, select, textarea {
 				#intro .actions {
 					display: none;
 				}
+
+		}
+
+		@media screen and (orientation: portrait) {
+
+			#intro {
+				min-height: 40vh;
+			}
 
 		}
 
@@ -4296,6 +4296,55 @@ input, select, textarea {
 			font-size: 0.8rem;
 		}
 
+		#footer.site-footer {
+			-moz-flex-wrap: wrap;
+			-webkit-flex-wrap: wrap;
+			-ms-flex-wrap: wrap;
+			flex-wrap: wrap;
+		}
+
+			#footer.site-footer > .footer-details {
+				-moz-flex-direction: row;
+				-webkit-flex-direction: row;
+				-ms-flex-direction: row;
+				flex-direction: row;
+				-moz-flex-basis: 100%;
+				-webkit-flex-basis: 100%;
+				-ms-flex-preferred-size: 100%;
+				flex-basis: 100%;
+				border-left: 0;
+			}
+
+				#footer.site-footer > .footer-details > section {
+					-moz-flex-basis: 50%;
+					-webkit-flex-basis: 50%;
+					-ms-flex-preferred-size: 50%;
+					flex-basis: 50%;
+					display: -moz-flex;
+					display: -webkit-flex;
+					display: -ms-flex;
+					display: flex;
+					-moz-flex-direction: column;
+					-webkit-flex-direction: column;
+					-ms-flex-direction: column;
+					flex-direction: column;
+					-moz-align-items: -moz-flex-start;
+					-webkit-align-items: -webkit-flex-start;
+					-ms-align-items: flex-start;
+					align-items: flex-start;
+					padding: 2rem;
+					border-top: 0;
+					border-left: solid 2px #e2e2e2;
+				}
+
+					#footer.site-footer > .footer-details > section:first-child {
+						border-left: 0;
+					}
+
+					#footer.site-footer > .footer-details > section > :first-child {
+						width: auto;
+					}
+
 		@media screen and (max-width: 980px) {
 
 			#footer {
@@ -4371,6 +4420,27 @@ input, select, textarea {
 					#footer > section.split.contact > section:last-child {
 						padding: 2rem;
 					}
+
+				#footer.site-footer > .footer-details {
+					-moz-flex-direction: column;
+					-webkit-flex-direction: column;
+					-ms-flex-direction: column;
+					flex-direction: column;
+				}
+
+					#footer.site-footer > .footer-details > section {
+						-moz-flex-basis: auto;
+						-webkit-flex-basis: auto;
+						-ms-flex-preferred-size: auto;
+						flex-basis: auto;
+						border-left: 0;
+						border-top: solid 2px #e2e2e2;
+						padding: 2rem;
+					}
+
+						#footer.site-footer > .footer-details > section:first-child {
+							border-top: 0;
+						}
 
 		}
 
